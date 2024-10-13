@@ -27,9 +27,7 @@ Los objetivos principales del proyecto son:
 
 - Se elaboran una serie de conclusiones extraidas del analisis, particularmete de la distribuncion de ingresos por categoría económica, la evaluación de tendencias a lo largo del tiempo (tanto años, como meses) y en la identificación de discrepancias.
 
-- Así mismo, en base a esas conclusiones se hacen una serie de recomendaciones de cara a optimizar la ejecución de ingresos en Brasil
-
-- Invito al lector a entrar en el repositorio para leer el análisis y las conclusiones
+- Así mismo, en base a esas conclusiones se hacen una serie de recomendaciones de cara a optimizar la ejecución de ingresos en Brasil, invito al lector a entrar en el repositorio para leer el análisis y las conclusiones
 
 
 
