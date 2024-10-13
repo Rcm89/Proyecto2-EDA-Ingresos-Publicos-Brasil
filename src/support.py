@@ -100,11 +100,8 @@ def convertir_fecha(df, col_fecha):
     DataFrame con la columna de fechas convertida.
     """
     # Convertimos la columna de fecha al formato datetime
-    df[col_fecha] = pd.to_datetime(df[col_fecha], format='%d/%m/%Y', errors='coerce')
-    
-    # Damos formato a la columna de 'DD/MM/YYYY'
-    df[col_fecha] = df[col_fecha].dt.strftime('%d/%m/%Y')
-    
+    df[col_fecha] = pd.to_datetime(df[col_fecha], errors='coerce', dayfirst=True)
+     
     return df
 
 def mostrar_porcentaje_nulos(df):
