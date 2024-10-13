@@ -1,6 +1,6 @@
 
 # Análisis exploratorio sobre datos de ingresos públicos de Brasil del 2013 al 2021.
-![Descripción de la imagen](imagenes/Rio_de_Janeiro.jpeg)
+![Descripción de la imagen](imagenes/Rio_de_Janeiro.jpg)
 
 Este proyecto consiste en la realización de un análisis exploratorio de datos (EDA) sobre un conjunto de datos de ingresos gubernamentales de Brasil que contiene información de diferentes categorías económicas, organizaciones y años entre 2013 y 2021. El objetivo principal es identificar tendencias en los ingresos, su evolución a lo largo del tiempo y las diferencias entre los valores previstos y recaudados.
 
